@@ -4,7 +4,7 @@
 
 
 
-<h2> RAZOORPAY landing page bulid with html & tailwind</h2>
+<h2> RAZORPAY landing page bulid with html & tailwind</h2>
 
 <h1 align="center">Keeps you updated with new projects</h1>
 
